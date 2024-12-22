@@ -1,6 +1,6 @@
 # Klera
 
-![Klera Banner](https://yourimagelink.com/banner.png) <!-- Replace with your actual banner image link -->
+![Klera Banner](./public/takken.jpg)
 
 Welcome to **Klera**, a revolutionary platform where gaming meets financial innovation. Use your wallet to buy coins, sell them for money, and immerse yourself in exciting single-player and 1v1 games like Tekken 3 and Super Mario.
 
@@ -60,6 +60,11 @@ Klera/
 │   ├── assets/
 │       ├── bg-01.jpg
 │       ├── logo.png
+│   ├── takken.jpg
+│   ├── mario.jpg
+│   ├── pacman1.jpg
+│   ├── pong.webp
+│   ├── sonic-01.jpg
 ├── src/
 │   ├── components/
 │       ├── Feedback.jsx
@@ -117,12 +122,14 @@ Klera/
 
 ## 📧 Contact
 For any questions or suggestions, feel free to reach out:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Name:** Abhigyan
+- **Institute:** IIIT Delhi
+- **Email:** [abhigyan23018@iiitd.ac.in](mailto:abhigyan23018@iiitd.ac.in)
 - **Website:** [Klera](https://klera.netlify.app/)
 
 ---
 
-![Thank You Banner](https://yourimagelink.com/thankyou.png) <!-- Replace with your actual banner image link -->
+![Klera Logo](./public/logo.png)
 
 Enjoy Gaming! 🎮
 
